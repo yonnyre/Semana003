@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Semana3</string>
+    <string-array name="android_layout_arrays">
+        <item>Americana</item>
+        <item>Pepperoni</item>
+        <item>Continental</item>
+        <item>Hawaiana</item>
+        <item>Vegetariana</item>
+    </string-array>
+</resources>
